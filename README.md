@@ -1,2 +1,4 @@
 # hello-world
-This is my 1st repository
+
+Hi, Humans!!
+This is my 1st repository, nothing about programming but useful to understand Git
